@@ -2,6 +2,6 @@ package main.java.hello;
 
 public class Greeter {
 	public String sayHello(){
-		return "Hello Maven World!";
+		return "Hello SVN World!";
 	}
 }
